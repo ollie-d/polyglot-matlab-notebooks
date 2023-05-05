@@ -26,10 +26,10 @@ Here are the tools I'm using
     pyversion('C:\Users\<user>\miniconda3\envs\matlab\python.exe');
     pyenv('ExecutionMode', 'OutOfProcess');
     ```
-### 5. Install SoS and Python and MATLAB subkernels via
+### 5. Install SoS, Python and MATLAB subkernels and matplotlib (for Python) via
   - run in conda terminal: 
     ```PowerShell
-    conda install sos sos-pbs sos-notebook jupyterlab-sos sos-papermill sos-python sos-r -c conda-forge
+    conda install sos sos-pbs sos-notebook jupyterlab-sos sos-papermill sos-python sos-r matplotlib -c conda-forge
     ```
     ```PowerShell
     pip install sos-matlab

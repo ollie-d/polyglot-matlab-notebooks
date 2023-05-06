@@ -4,11 +4,12 @@ A repository containing examples and instructions on using Script of Script (SoS
 Here are the tools I'm using
 
 - OS: Windows 11
-  - Terminal launching Miniconda3 (4.12.0)
-
-- Python: 3.10.4
-- pip: 22.2.2
+- git: 2.37.2.windows.2
 - MATLAB: R2022b (9.13.0.2049777 )
+- Terminal launching Miniconda3
+    - Conda: 23.3.1
+    - Python: 3.10.10
+    - pip: 23.1.2
 
 ## Installation Steps
 ### 1. Install and activate MATLAB
